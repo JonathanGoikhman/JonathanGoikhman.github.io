@@ -117,14 +117,14 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Security Research blog"
   location         : #"Somewhere"
-  email            : yoni58360@gmail.com
+  email            : #yoni58360@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+       url: "yoni58360@gmail.com"
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      # url: "https://www.linkedin.com/in/yonatangoikhman/"
+       url: "https://www.linkedin.com/in/yonatangoikhman/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
