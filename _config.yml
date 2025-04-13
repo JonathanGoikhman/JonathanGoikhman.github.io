@@ -116,15 +116,15 @@ author:
   name             : "Jonathan Goikhman"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Security Research blog"
-  location         : "Somewhere"
-  email            :
+  location         : #"Somewhere"
+  email            : yoni58360@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      # url: "https://www.linkedin.com/in/yonatangoikhman/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
